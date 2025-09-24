@@ -6,7 +6,8 @@ An Excel-based analytics project that cleans, models, and visualizes real coffee
 
 ## Preview
 
-![Dashboard Screenshot]("C:\Users\UTD\Videos\Desktop Screenshot 2025.08.05 - 14.38.53.45.png")
+<img width="1899" height="1022" alt="Desktop Screenshot 2025 08 05 - 14 38 53 45" src="https://github.com/user-attachments/assets/23157ea7-424b-44d3-8f1c-f71cef740a7a" />
+
 
 - Transform raw sales data into an analysis-ready model using Power Query.  
 - Build Pivot Table analyses for core business KPIs.  
